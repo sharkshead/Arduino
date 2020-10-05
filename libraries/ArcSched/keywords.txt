@@ -1,0 +1,20 @@
+ArcSched	KEYWORD1
+SchedFunctionDetail	KEYWORD1
+
+millis	KEYWORD2
+setPriority	KEYWORD2
+SchedPriorityHigh	KEYWORD2
+SchedPriorityMedium	KEYWORD2
+SchedPriorityLow	KEYWORD2
+setInterval	KEYWORD2
+registerFunction	KEYWORD2
+requeueFunction	KEYWORD2
+deregisterFunction	KEYWORD2
+deregister	KEYWORD2
+setSleepProcessor	KEYWORD2
+seconds	KEYWORD2
+minutes	KEYWORD2
+hours	KEYWORD2
+days	KEYWORD2
+setup	KEYWORD2
+loop	KEYWORD2

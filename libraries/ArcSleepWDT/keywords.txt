@@ -1,0 +1,11 @@
+ArcSleepWDT	KEYWORD1
+
+getName	KEYWORD2
+getSleepMode	KEYWORD2
+setSleepMode	KEYWORD2
+getMaxSleepTime	KEYWORD2
+setMaxSleepTime	KEYWORD2
+getCanSleep	KEYWORD2
+setCanSleep	KEYWORD2
+int0Vect	KEYWORD2
+int1Vect	KEYWORD2
